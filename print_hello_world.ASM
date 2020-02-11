@@ -1,5 +1,5 @@
 DATA SEGMENT
-	msg DB "Hello$"
+	msg DB "Hello World$"
 DATA ENDS
 CODE SEGMENT
 	ASSUME CS:CODE,DS:DATA

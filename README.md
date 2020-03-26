@@ -26,6 +26,7 @@ mount c <path to masm folder>
 c:
 ```
 <br>
+
 ### Example
 
 ```bash
@@ -53,6 +54,7 @@ link <program_name.obj>
 <program_name.exe>
 ```
 <br>
+
 ### Example
 
 ```bash

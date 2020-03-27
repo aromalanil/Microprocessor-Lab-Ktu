@@ -30,7 +30,7 @@ c:
 ### Example
 
 ```bash
-mount c c:\users\aromal\downloads\masm
+mount c c:/users/aromal/downloads/masm
 c:
 ```
 <br><br>
@@ -58,7 +58,7 @@ link <program_name.obj>
 ### Example
 
 ```bash
-mount c c:\users\aromal\downloads\masm
+mount c c:/users/aromal/downloads/masm
 c:
 
 masm pattern.asm

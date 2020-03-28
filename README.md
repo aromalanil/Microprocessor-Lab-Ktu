@@ -39,9 +39,8 @@ c:
 
 To run any of these programs in your computer.
 
-1. Copy the program to MASM folder
-2. Download and copy the program to MASM folder
-3. Open DOSBox and Run following commands
+1. Download and Copy the program you want to run to the MASM folder
+2. Open DOSBox and Run following commands
 
 <br>
 

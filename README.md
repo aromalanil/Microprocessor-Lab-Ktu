@@ -68,5 +68,5 @@ pattern.exe
 
 ## ✍ Author
 
-[Aromal Anil](https://aromalanil.me)
+[Aromal Anil](https://aromalanil.in)
 
